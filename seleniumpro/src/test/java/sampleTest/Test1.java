@@ -6,7 +6,7 @@ public class Test1 {
 
 	@Test(groups = {"smokeTestt","RegressionTest"})
 	public void test() {
-		System.out.println("execute test method");
+		System.out.println("execute THE test method");
 	}
 	@Test
 	public void test1() {
