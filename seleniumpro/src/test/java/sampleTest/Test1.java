@@ -10,7 +10,7 @@ public class Test1 {
 	}
 	@Test
 	public void test1() {
-		System.out.println("execute test1 mtd");
+		System.out.println("execute t test1 mtd");
 	}
 	
 }
